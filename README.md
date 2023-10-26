@@ -11,5 +11,5 @@
 ![springsecurity](https://img.shields.io/badge/spring%20security-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-## GitHub Stats🧑‍💻
-![kksshh0612's GitHub stats](https://github-readme-stats.vercel.app/api?username=kksshh0612&show_icons=true&theme=tokyonight)
+--## GitHub Stats🧑‍💻
+--![kksshh0612's GitHub stats](https://github-readme-stats.vercel.app/api?username=kksshh0612&show_icons=true&theme=tokyonight)
